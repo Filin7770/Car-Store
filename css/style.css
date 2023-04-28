@@ -166,7 +166,7 @@ h1 {
     padding: 0.5rem;
     width: 100%;
     display: flex;
-    align-items: center
+    flex-direction: column;
 }
 
 .models__available {
@@ -178,6 +178,33 @@ h1 {
     /* or 121% */
     text-align: center;
     color: #000000;
-    padding-left: 112px;
     padding-top: 44px;
+}
+
+.models__card {
+    padding-left: 9px;
+    padding-top: 12px;
+}
+
+
+.models__name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 17px;
+    /* or 142% */
+    text-align: center;
+    color: #000000;
+}
+
+.models__price {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 12px;
+    line-height: 17px;
+    /* or 142% */
+    text-align: center;
+    color: #000000;
 }
