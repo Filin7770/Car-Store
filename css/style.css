@@ -161,3 +161,23 @@ h1 {
 .test__drive {
     text-decoration: none;
 }
+
+.models__wrapper {
+    padding: 0.5rem;
+    width: 100%;
+    display: flex;
+    align-items: center
+}
+
+.models__available {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* or 121% */
+    text-align: center;
+    color: #000000;
+    padding-left: 112px;
+    padding-top: 44px;
+}
