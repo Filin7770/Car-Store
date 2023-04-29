@@ -217,3 +217,54 @@ h1 {
     color: #000000;
     padding-bottom: 5px;
 }
+
+.models__buy {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    text-align: center;
+    padding-top: 33px;
+}
+
+.models__marketing {
+    margin: 0 auto;
+    background-color: rgba(217, 217, 217, 0.207);
+    max-width: 359px;
+    margin-top: 18px;
+}
+
+.models__ruble{
+    padding-left: 11px;
+    padding-top: 9px;
+}
+
+.models__shield{
+    padding-left: 11px;
+    padding-top: 9px;
+}
+
+.models__heading {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+    color: #000000;
+    padding-left: 16px;
+    padding-top: 5px;
+    
+}
+
+.models__head {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 15px;
+    color: #000000;
+    padding-left: 16px;
+    padding-top: 5px;
+}
